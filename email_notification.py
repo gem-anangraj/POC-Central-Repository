@@ -8,7 +8,7 @@ from datetime import datetime
 from pytz import timezone
 
 port = 465  # For SSL
-password = "nfmrjxivowbykzjh"
+password = ""
 
 # Create a secure SSL context
 context = ssl.create_default_context()
